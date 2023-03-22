@@ -1,0 +1,31 @@
+body {
+    margin: 1em;
+    text-align: center;
+}
+
+#cabecalho {
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0.3em;
+    border-radius: 10px;
+    border: 1px;
+}
+
+#acoes {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 1em; 
+}
+
+input {
+    background-color: burlywood;
+    border: none;
+    border-radius: 10px;
+    padding: 0.5em;
+    
+}
+
+.exibe {
+    text-align: center;
+}
